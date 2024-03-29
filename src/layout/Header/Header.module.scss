@@ -1,0 +1,25 @@
+.wrapper {
+  background-color: #4b0082;
+}
+.container {
+  padding: 1.5rem 1rem;
+  display: flex;
+  justify-content: flex-end;
+}
+.switcher {
+  background-color: #fff;
+  border-radius: 1.5rem;
+  display: flex;
+  align-items: center;
+  padding: 0.6rem 0.6rem;
+  gap: 8px;
+  margin-left: auto;
+}
+.search {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  input {
+    outline: none;
+  }
+}
